@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "5fYOPlg7+O6o4attIevHTdiw+X9RubmaxJb8NJbD/8NfSCDoUeflQjLdBYRrhipJ3Sdyseae6kJQ1mD2o5GBfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\valdb\\source\\repos\\Auto mobile\\Auto mobile\\Auto mobile\\Auto mobile.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\valdb\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\valdb\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\valdb\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\valdb\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\valdb\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

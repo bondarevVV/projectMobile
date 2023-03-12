@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Auto_mobile.MainPage">
+
+    <StackLayout Background="Black"> 
+
+        <Label Text="NAME" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" TextColor="LightGreen" FontSize="50" FontAttributes="Bold"/>
+
+        <Entry x:Name="nameField" Placeholder="Имя" Background="Gray" VerticalOptions="EndAndExpand" FontAttributes="Bold" Margin="20"/>
+        <Entry x:Name="loginField" Placeholder="Логин" Background="Gray" VerticalOptions="Fill" FontAttributes="Bold" Margin="20"/>
+        <Entry x:Name="passField" Placeholder="Пароль" IsPassword="True" Background="Gray" VerticalOptions="Start" FontAttributes="Bold" Margin="20"/>
+
+        <Label Text="Подтвердите" TextColor="Gray"/>
+        <CheckBox x:Name="checkField" Color="LightGreen"/>
+
+        <Button Text="ВОЙТИ" Clicked="ButtonClick" VerticalOptions="EndAndExpand" BackgroundColor="LightGreen" FontAttributes="Bold" FontSize="20"/>
+        <Label x:Name="errorText" Text="" TextColor="Gray"/>
+        
+        
+
+    </StackLayout>
+
+</ContentPage>

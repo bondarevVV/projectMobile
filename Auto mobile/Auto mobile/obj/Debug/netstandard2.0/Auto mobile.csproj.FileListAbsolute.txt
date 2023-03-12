@@ -1,0 +1,16 @@
+C:\Users\valdb\source\repos\Auto mobile\Auto mobile\Auto mobile\bin\Debug\netstandard2.0\Auto mobile.deps.json
+C:\Users\valdb\source\repos\Auto mobile\Auto mobile\Auto mobile\bin\Debug\netstandard2.0\Auto mobile.dll
+C:\Users\valdb\source\repos\Auto mobile\Auto mobile\Auto mobile\bin\Debug\netstandard2.0\Auto mobile.pdb
+C:\Users\valdb\source\repos\Auto mobile\Auto mobile\Auto mobile\obj\Debug\netstandard2.0\Auto mobile.csproj.AssemblyReference.cache
+C:\Users\valdb\source\repos\Auto mobile\Auto mobile\Auto mobile\obj\Debug\netstandard2.0\Auto mobile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valdb\source\repos\Auto mobile\Auto mobile\Auto mobile\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\valdb\source\repos\Auto mobile\Auto mobile\Auto mobile\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\valdb\source\repos\Auto mobile\Auto mobile\Auto mobile\obj\Debug\netstandard2.0\Auto mobile.AssemblyInfoInputs.cache
+C:\Users\valdb\source\repos\Auto mobile\Auto mobile\Auto mobile\obj\Debug\netstandard2.0\Auto mobile.AssemblyInfo.cs
+C:\Users\valdb\source\repos\Auto mobile\Auto mobile\Auto mobile\obj\Debug\netstandard2.0\Auto mobile.csproj.CoreCompileInputs.cache
+C:\Users\valdb\source\repos\Auto mobile\Auto mobile\Auto mobile\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\valdb\source\repos\Auto mobile\Auto mobile\Auto mobile\obj\Debug\netstandard2.0\Auto mobile.dll
+C:\Users\valdb\source\repos\Auto mobile\Auto mobile\Auto mobile\obj\Debug\netstandard2.0\refint\Auto mobile.dll
+C:\Users\valdb\source\repos\Auto mobile\Auto mobile\Auto mobile\obj\Debug\netstandard2.0\Auto mobile.pdb
+C:\Users\valdb\source\repos\Auto mobile\Auto mobile\Auto mobile\obj\Debug\netstandard2.0\ref\Auto mobile.dll
+C:\Users\valdb\source\repos\Auto mobile\Auto mobile\Auto mobile\obj\Debug\netstandard2.0\2 str.xaml.g.cs
